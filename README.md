@@ -1,1 +1,0 @@
-just practicing advanced devops
